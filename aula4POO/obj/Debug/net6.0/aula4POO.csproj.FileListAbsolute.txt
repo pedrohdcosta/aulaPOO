@@ -1,0 +1,15 @@
+C:\Users\pedro.costa\Desktop\aula4POO\bin\Debug\net6.0\aula4POO.exe
+C:\Users\pedro.costa\Desktop\aula4POO\bin\Debug\net6.0\aula4POO.deps.json
+C:\Users\pedro.costa\Desktop\aula4POO\bin\Debug\net6.0\aula4POO.runtimeconfig.json
+C:\Users\pedro.costa\Desktop\aula4POO\bin\Debug\net6.0\aula4POO.dll
+C:\Users\pedro.costa\Desktop\aula4POO\bin\Debug\net6.0\aula4POO.pdb
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.csproj.AssemblyReference.cache
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.AssemblyInfoInputs.cache
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.AssemblyInfo.cs
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.csproj.CoreCompileInputs.cache
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.dll
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\refint\aula4POO.dll
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.pdb
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\aula4POO.genruntimeconfig.cache
+C:\Users\pedro.costa\Desktop\aula4POO\obj\Debug\net6.0\ref\aula4POO.dll
